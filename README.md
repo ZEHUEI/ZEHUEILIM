@@ -1,7 +1,7 @@
 # 🐲 ZH_MIUMIU
 **`CS Student (Queens Uni Belfast)`**
 
-Just a ordinary international student!<br />
+Just an ordinary international student!<br />
 爱不是占有，而是欣赏❤️
 
 
