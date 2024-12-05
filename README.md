@@ -1,4 +1,4 @@
-# 🐲 ZH_MIUMIU
+# 🐲 ZH_
 **`CS Student (Queens Uni Belfast)`**
 
 Just an ordinary international student!<br />
