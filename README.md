@@ -1,7 +1,7 @@
 # 🐲 ZH_
 **`CS Student (Queens Uni Belfast)`**
 
-Just an ordinary student!<br />
+Just a ordinary student!<br />
 爱不是占有，而是欣赏❤️
 
 
