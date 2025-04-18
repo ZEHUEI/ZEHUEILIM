@@ -1,7 +1,8 @@
 # 🐲 Ze Huei Lim
 **`CS Student (Queens Uni Belfast)`**
 
-A very passionate CS Student looking for a placement!
+A very passionate CS Student looking for a placement!<br />
+**Languages: JAVA , C++ , PYTHON🐍**
 <br />
 爱不是占有，而是欣赏❤️
 
