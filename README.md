@@ -1,7 +1,8 @@
-# 🐲 ZH
+# 🐲 Ze Huei Lim
 **`CS Student (Queens Uni Belfast)`**
 
-Just a ordinary student!<br />
+A very passionate CS Student looking for a placement!
+<br />
 爱不是占有，而是欣赏❤️
 
 
@@ -9,4 +10,4 @@ Just a ordinary student!<br />
 
 ---
 ### STATS
-![ZH_MIUMIU's GitHub stats](https://github-readme-stats.vercel.app/api?username=zh-miumiu&show_icons=true&theme=dark)
+![ZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=zh-miumiu&show_icons=true&theme=dark)
